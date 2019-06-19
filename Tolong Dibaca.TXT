@@ -1,0 +1,1 @@
+untuk backup database, buat folder di data : D, dengan nama BackUp atau pindahkan folder BackUp ke data : D
